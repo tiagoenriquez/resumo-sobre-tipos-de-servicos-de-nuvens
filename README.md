@@ -1,2 +1,5 @@
-# resumo-sobre-tipos-de-servicos-de-nuvens
-O que eu entendi da aula sobre tipos de serviços de nuvens disponibilizado pela DIO
+# Resumo sobre tipos de serviços na nuvem
+Existem basicamente 3 tipos de serviços de nuvem: IAAS, PAAS e SAAS. Isso é um conceito geral sobre nuvem, que também se aplica a outras plataformas, como Google Cloud, AWS, e outros.<br>
+<b>IAAS (Infraestrutura como Serviço):</b> requer mais configuração por parte do cliente, porque este define informações sobre discos, rede, gerenciamento, monitoramento e outras configuraçẽs. Além disso, o cliente fica obrigado a acompnhar necessidade de atualização depois que adquire o serviço.<br>
+<b>PAAS (Plataforma como Serviço):</b> não requer do cliente configurações de infraestrutura, mas o cliente é responsável por provisionar a aplicação e escolher o banco de dados e gerenciar a autenticação e autorização dos usuários.<br>
+<b>SAAS (Software como Serviço):</b> é o modelo que menos requer trabalho do cliente. Este aqui só precisa mesmo configurar os acessos e até a aplicação já está pronta para uso. Exemplos de SAAS dispovíveis na Azure são Microsoft Office 365, Outlook, Microsoft Teams.<br>
